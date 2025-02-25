@@ -5,3 +5,7 @@ Santiago, la capital y la ciudad más grande de Chile, se ubica en un valle rode
 
 ## Recomendación
 La Plaza de Armas, el gran núcleo del centro colonial antiguo de la ciudad.
+
+## Foto
+![](https://assets.turismocity.com/cdn-cgi/image/format=auto/img/1698171825343_fotos%20(8).png)
+
